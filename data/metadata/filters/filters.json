@@ -1,0 +1,12 @@
+[
+    {
+        "filter_name": "select",
+        "filter_values": [
+            "agenero",
+            "homem",
+            "mulher",
+            "nao_binario",
+            "transgenero"
+        ]
+    }
+]
